@@ -1,5 +1,8 @@
 ##About Me
 ---
 ####Who am I?
-My name is **Tristan Molina** and I am a _proud_ student of sep11
-I am a junior or _11th grader_ in the _High School of Tellecomunications of Arts and Technology_
+My name is **Tristan Molina** and I am a _proud_ student of sep11.
+I am a junior or 11th grader in the _High School of Tellecomunications of Arts and Technology_
+
+####Why am I interested in Software Engineering?
+I have always loved phones, video games and computers. When I was very young I always felt I had a big passion for anything computerized. I used to watch movies with people doing big fast coding like this with cool colors link in the matrix. My grandfather was a really smart engineer and taught me alot. Now im in high school and was presented such an amazing opportunity to learn and do even more with computers and robots through this program. My teacher Mr. Mueller teaches us soo much and is a really funny involved teacher. This is my third year in this program and although there were tough times where I got lost or didn't know how to do something I learned and created amazing things. I hope to land a job as a software engineer since I am pretty good at it and computers are the future and I know that it would grant me many rewards in the future so I plan to continue on my path and see where I land.
